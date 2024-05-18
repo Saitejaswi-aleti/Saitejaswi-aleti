@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sai tejaswi aleti
+- 👋 Hi, I’m Sai Tejaswi Aleti
 - 👀 I’m passionate about emerging technologies and software development and strongly interested in creating innovative web applications and designing intuitive user experiences.
 - 🌱 Currently I'm currently honing my Full Stack Web Development skills, exploring the latest frameworks and tools to build dynamic, user-friendly web experiences. Additionally, I'm an expert in UI/UX design, leveraging tools like Figma to craft intuitive and visually appealing interfaces.
 - 💞️ I want to collaborate on open-source projects, exciting web development, and design ventures. If you're working on something cool, I'd love to hear about it!
